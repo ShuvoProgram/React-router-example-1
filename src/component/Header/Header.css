@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    justify-content: center;
+}
+.header a{
+    text-decoration: none;
+    margin-right: 15px;
+    padding: 2px 5px;
+    font-size: 17px;
+}
+.active{
+    background-color: aqua;
+}
